@@ -1,0 +1,73 @@
+.main-body {
+    width: 450px;
+    height: 575px;
+    background-color: #D1B48C;
+    margin-left: 530px;
+    margin-top: 90px;
+}
+.calc {
+    width: 400px;
+    height: 525px;
+    background-color: #3C4542;
+    border-radius: 15px;
+    position: relative;
+    left: 25px;
+    top: 25px;
+}
+#screen {
+    width: 342px;
+    height: 55px;
+    margin-left: 25px;
+    margin-top: 40px;
+    background: #BCCD96;
+    border-bottom:3px solid#E3E6E3;
+    border-right:3px solid#E3E6E3;
+    outline: 5px solid #222022;
+    pointer-events: none;
+}
+.btn {
+    width: 66px;
+    height: 55px;
+    background-color:#312F30;
+    margin-left: 25px;
+    margin-top: 25px;
+    border-radius: 15px;
+    border-bottom: 5px solid black;
+    color: white;
+    font-size: 25px;
+   
+}
+.memory-btn {
+    width: 66px;
+    height: 55px;
+    background-color:#6A6A6A;
+    margin-left: 25px;
+    margin-top: 25px;
+    border-radius: 15px;
+    border-bottom: 5px solid black;
+    color: white;
+    font-size: 25px;
+}
+    
+.button {
+    width: 66px;
+    height: 55px;
+    background-color:#FD4664;
+    margin-left: 25px;
+    margin-top: 25px;
+    border-radius: 15px;
+    border-bottom: 5px solid black;
+    color: white;
+    font-size: 25px;
+}
+#equal-btn {
+    width: 66px;
+    height: 55px;
+    background-color:#FF9933;
+    margin-left: 25px;
+    margin-top: 25px;
+    border-radius: 15px;
+    border-bottom: 5px solid black;
+    color: white;
+    font-size: 25px;
+}
